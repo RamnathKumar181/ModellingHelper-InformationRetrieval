@@ -1,5 +1,4 @@
-# ModellingHelper-InformationRetrieval
-Lets do this!!!!
+# Psychological Counselling Information Retrieval
 
 ## Requirements
 - Python 3.6
